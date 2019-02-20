@@ -8,12 +8,12 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Very Simple Example Webpage</title>
+    <title>Super Simple Example Webpage</title>
 </head>
 <body>
-  <h1>Very Simple Example Web Page</h1>
+  <h1>Super Simple Example Web Page</h1>
   <p>
-    This is a very simple example web page on a JSP. Changes made to show redeploy from Jenkins.
+    This is a very simple example web page on a JSP.
   </p>
 </body>
 </html>
